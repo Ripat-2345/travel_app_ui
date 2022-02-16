@@ -114,7 +114,7 @@ class HomeScreen extends StatelessWidget {
                   height: 40,
                 ),
                 Text(
-                  "Let's go trip wiht us!",
+                  "Lets go trip with us!",
                   style: mainTitle,
                 ),
                 const SizedBox(
